@@ -1,3 +1,4 @@
 # hellow-world
 My first repository
-I am Hiren Patel. This is my first project on GitHub.
+This is first update. 
+Now I am updating second time.
